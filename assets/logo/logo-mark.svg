@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="LOGO">
+<path id="Subtract" d="M11.1176 0C16.5755 0 21 4.47715 21 10H16.9853C16.9853 6.72081 14.3583 4.0625 11.1176 4.0625H4.01471V15.9375H11.1176V20H0V0H11.1176Z" fill="var(--fill-0, #027AFF)"/>
+<path id="Union" d="M12.3529 10.2365L15.2074 13.125H21V20H14.2059V14.7632L11.3517 11.875H8.64706V8.125H12.3529V10.2365Z" fill="url(#paint0_linear_0_377)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_377" x1="21" y1="19.8893" x2="8.64706" y2="8.23572" gradientUnits="userSpaceOnUse">
+<stop stop-color="#111647"/>
+<stop offset="1" stop-color="#045DF3"/>
+</linearGradient>
+</defs>
+</svg>
