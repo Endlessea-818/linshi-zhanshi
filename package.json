@@ -1,0 +1,26 @@
+{
+  "name": "hr-qualification-platform",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "verify:env": "node scripts/verify-environment.js",
+    "prebuild": "npm run verify:env",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.37.1",
+    "lottie-web": "^5.13.0",
+    "vue": "^2.7.16"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.8",
+    "@vue/cli-service": "~5.0.8",
+    "vue-template-compiler": "^2.7.16"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

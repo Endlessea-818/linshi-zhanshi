@@ -1,0 +1,210 @@
+{
+  "source": {
+    "figmaFile": "临床数据管理平台Ver.2.0",
+    "fileKey": "UpB5vr3UlKGfcD2pJGwWCX",
+    "nodeId": "371:3716",
+    "navIconNodeId": "116:879",
+    "note": "Figma MCP asset URLs are temporary. Use these local files for development."
+  },
+  "logo": {
+    "header": "./logo/header-logo.svg",
+    "mark": "./logo/logo-mark.svg",
+    "text": "./logo/logo-text.svg"
+  },
+  "topbar": {
+    "avatarBackground": "./topbar/avatar-bg.svg",
+    "notification": "./topbar/notification.svg",
+    "camera": "./topbar/camera.svg",
+    "divider": "./topbar/divider.svg",
+    "statusQuestionnaire": "./topbar/status-questionnaire.svg",
+    "statusQuestionnaireActive": "./topbar/status-questionnaire-active.png",
+    "statusTodo": "./topbar/status-todo.svg",
+    "statusBell": "./topbar/status-bell.svg",
+    "statusDropdown": "./topbar/status-dropdown.svg"
+  },
+  "common": {
+    "arrowDown": "./common/arrow-down.svg",
+    "arrows": {
+      "left": "./common/arrows/left.svg",
+      "right": "./common/arrows/right.svg",
+      "up": "./common/arrows/up.svg",
+      "down": "./common/arrows/down.svg"
+    }
+  },
+  "selectors": {
+    "multipleArrow": "./selectors/multiple-arrow.svg",
+    "clear": "./selectors/clear-14.svg",
+    "clearHover": "./selectors/clear-hover.svg",
+    "dropdownCheck": "./selectors/dropdown-check.svg"
+  },
+  "tableCheckboxes": {
+    "unchecked": "./table-checkboxes/unchecked.svg",
+    "uncheckedHover": "./table-checkboxes/unchecked-hover.svg",
+    "uncheckedDisabled": "./table-checkboxes/unchecked-disabled.svg",
+    "checked": "./table-checkboxes/checked.svg",
+    "checkedDisabled": "./table-checkboxes/checked-disabled.svg",
+    "indeterminate": "./table-checkboxes/indeterminate.svg"
+  },
+  "radioButtons": {
+    "unchecked": "./radio-buttons/unchecked.svg",
+    "uncheckedHover": "./radio-buttons/unchecked-hover.svg",
+    "uncheckedDisabled": "./radio-buttons/unchecked-disabled.svg",
+    "checked": "./radio-buttons/checked.svg",
+    "checkedDisabled": "./radio-buttons/checked-disabled.svg"
+  },
+  "switches": {
+    "off": "./switches/off.svg",
+    "offDisabled": "./switches/off-disabled.svg",
+    "on": "./switches/on.svg",
+    "onDisabled": "./switches/on-disabled.svg"
+  },
+  "inputNumber": {
+    "default": "./input-number/default.svg",
+    "hoverIncrease": "./input-number/hover-increase.svg",
+    "hoverDecrease": "./input-number/hover-decrease.svg",
+    "minus": "./input-number/minus.svg"
+  },
+  "pagination": {
+    "previous": {
+      "default": "./pagination/previous-default.svg",
+      "selected": "./pagination/previous-selected.svg",
+      "disabled": "./pagination/previous-disabled.svg"
+    },
+    "page": {
+      "default": "./pagination/page-default.svg",
+      "selected": "./pagination/page-selected.svg",
+      "disabled": "./pagination/page-disabled.svg"
+    },
+    "next": {
+      "default": "./pagination/next-default.svg",
+      "selected": "./pagination/next-selected.svg",
+      "disabled": "./pagination/next-disabled.svg"
+    }
+  },
+  "timePicker": {
+    "yearPrevious": {
+      "default": "./time-picker/year-previous-default.svg",
+      "hover": "./time-picker/year-previous-hover.svg"
+    },
+    "yearNext": {
+      "default": "./time-picker/year-next-default.svg",
+      "hover": "./time-picker/year-next-hover.svg"
+    },
+    "monthPrevious": {
+      "default": "./time-picker/month-previous-default.svg",
+      "hover": "./time-picker/month-previous-hover.svg"
+    },
+    "monthNext": {
+      "default": "./time-picker/month-next-default.svg",
+      "hover": "./time-picker/month-next-hover.svg"
+    }
+  },
+  "actionIcons": {
+    "close": "./action-icons/close.svg",
+    "search": "./action-icons/search.svg",
+    "back": "./action-icons/back.svg",
+    "date": "./action-icons/date.svg",
+    "preview": "./action-icons/preview.svg",
+    "fieldSortSettings": "./action-icons/field-sort-settings.svg",
+    "export": "./action-icons/export.svg",
+    "import": "./action-icons/import.svg",
+    "upload": "./action-icons/upload.svg",
+    "refresh": "./action-icons/refresh.svg",
+    "reject": "./action-icons/reject.svg",
+    "authorize": "./action-icons/authorize.svg",
+    "archive": "./action-icons/archive.svg",
+    "print": "./action-icons/print.svg",
+    "more": "./action-icons/more.svg",
+    "moveTo": "./action-icons/move-to.svg",
+    "delete": "./action-icons/delete.svg",
+    "download": "./action-icons/download.svg",
+    "add": "./action-icons/add.svg",
+    "edit": "./action-icons/edit.svg",
+    "monthlyReport": "./action-icons/monthly-report.svg",
+    "update": "./action-icons/update.svg",
+    "startEnd": "./action-icons/start-end.svg"
+  },
+  "otherIcons": {
+    "coResearcher": "./other-icons/co-researcher.svg",
+    "researchCenter": "./other-icons/research-center.svg",
+    "amount": "./other-icons/amount.svg",
+    "tip": "./other-icons/tip.svg",
+    "delete": "./other-icons/delete.svg",
+    "tagHoverDelete": "./other-icons/tag-hover-delete.svg",
+    "until": "./other-icons/until.svg"
+  },
+  "scoringIcons": {
+    "researchCenter": "./scoring-icons/research-center.svg",
+    "researcher": "./scoring-icons/researcher.svg",
+    "supplier": "./scoring-icons/supplier.svg",
+    "tip": "./scoring-icons/tip.svg",
+    "starFull": "./scoring-icons/star-full.svg",
+    "starHalf": "./scoring-icons/star-half.svg",
+    "starEmpty": "./scoring-icons/star-empty.svg",
+    "dimensionQuality": "./scoring-icons/dimension-quality.svg",
+    "dimensionTimeliness": "./scoring-icons/dimension-timeliness.svg",
+    "dimensionCommunication": "./scoring-icons/dimension-communication.svg",
+    "dimensionSatisfaction": "./scoring-icons/dimension-satisfaction.svg",
+    "dimensionExecution": "./scoring-icons/dimension-execution.svg",
+    "dimensionService": "./scoring-icons/dimension-service.svg",
+    "evaluationCompleteTitle": "./scoring-icons/evaluation-complete-title.svg"
+  },
+  "approvalFlow": {
+    "current": "./approval-flow/status-current.svg",
+    "done": "./approval-flow/status-done.svg",
+    "rejected": "./approval-flow/status-rejected.svg",
+    "revoked": "./approval-flow/status-revoked.svg",
+    "reviewApproved": "./approval-flow/review-approved.svg",
+    "reviewRejected": "./approval-flow/review-rejected.svg",
+    "reviewRevoked": "./approval-flow/review-revoked.svg"
+  },
+  "tooltips": {
+    "tipBottom": "./tooltips/tip-bottom.svg"
+  },
+  "navIcons": {
+    "home": {
+      "default": "./nav-icons/home/default.svg",
+      "active": "./nav-icons/home/active.svg"
+    },
+    "project": {
+      "default": "./nav-icons/project/default.svg",
+      "active": "./nav-icons/project/active.svg"
+    },
+    "data": {
+      "default": "./nav-icons/data/default.svg",
+      "active": "./nav-icons/data/active.svg"
+    },
+    "partners": {
+      "default": "./nav-icons/partners/default.svg",
+      "active": "./nav-icons/partners/active.svg"
+    },
+    "analysis": {
+      "default": "./nav-icons/analysis/default.svg",
+      "active": "./nav-icons/analysis/active.svg"
+    },
+    "docs": {
+      "default": "./nav-icons/docs/default.svg",
+      "active": "./nav-icons/docs/active.svg"
+    },
+    "system": {
+      "default": "./nav-icons/system/default.svg",
+      "active": "./nav-icons/system/active.svg"
+    }
+  },
+  "illustrations": {
+    "sidebarObject": "./illustrations/sidebar-object.png",
+    "emptyAdd": "./illustrations/empty-add.png",
+    "noData": "./illustrations/no-data.svg",
+    "noSearchData": "./illustrations/no-search-data.svg",
+    "pendingEvaluationHeader": "./illustrations/pending-evaluation-header.png"
+  },
+  "animations": {
+    "projectCreateSuccessful": "./animations/project-create-successful.json"
+  },
+  "scoringIcons": {
+    "starLargeFull": "./scoring-icons/star-large-full.svg",
+    "starLargeHalf": "./scoring-icons/star-large-half.svg",
+    "starLargeEmpty": "./scoring-icons/star-large-empty.svg",
+    "noRatingData": "./scoring-icons/no-rating-data.svg"
+  }
+}
